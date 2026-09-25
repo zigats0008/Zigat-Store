@@ -1,1 +1,1 @@
-# zigat-store!
+# zigat-store
